@@ -17,7 +17,12 @@
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <code><img width="4%" src="https://github.com/samuelobe/samuelobe/blob/main/assets/c.svg"></code>
+  <br />
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://github.com/samuelobe/samuelobe/blob/main/assets/matlab.png"></code>
+  <code><img width="5%" src="https://github.com/samuelobe/samuelobe/blob/main/assets/c-programming.svg"></code>
   <br />
 </p>
 
@@ -31,7 +36,7 @@
   <br />
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <br />
 </p>
 
