@@ -1,4 +1,4 @@
-## Hi there👋
+## Hi there 👋
 
 I'm Samuel, a senior Mechanical Engineering student at Rensselaer Polytechnic Institute based in Troy, NY. I have a passion for tackling problems in a simple and efficient way.
 
