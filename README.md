@@ -1,12 +1,12 @@
-## Hi there, I'm Samuel Obe 👋
+## Hi there👋
 
-### I'm a Mechanical Engineering student who loves to code! 🔧
+I'm Samuel, a senior Mechanical Engineering student at Rensselaer Polytechnic Institute based in Troy, NY. I have a passion for tackling problems in a simple and efficient way.
 
 - 🔭 I’m currently working on Flutter ShuttleTracker
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about anything, I am happy to help!
 - 📫 Feel free to email me if you have any questions
-- ⚡ Fun fact: I love most sci-fi books, tv shows, and movies
+- ⚡ Fun fact: I've seen every episode of every Star Trek series
 
 ### My GitHub Stats
 
