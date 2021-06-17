@@ -43,7 +43,7 @@ I'm Samuel, a Mechanical Engineering graduate from Rensselaer Polytechnic Instit
 </p>
 
 ### Contact me
-[![Email](https://img.shields.io/badge/obes@rpi.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:obes@rpi.edu)
+[![Email](https://img.shields.io/badge/samuel.obe@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samuel.obe@outlook.com)
 
 
 
