@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-I'm Samuel, a Mechanical Engineering graduate from Rensselaer Polytechnic Institute with a strong interest in software engineering. I have a passion for tackling problems in a simple and efficient way.
-
-- 🔭 I’m currently working on Flutter ShuttleTracker
-- 🌱 I’m currently learning React Native
-- 💬 Ask me about anything, I am happy to help!
-- ⚡ Fun fact: I've seen every episode of every Star Trek series
 
 ### My GitHub Stats
 
